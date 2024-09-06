@@ -1,4 +1,4 @@
-# HYU-Computer-Architecture
+# Computer-Architecture
 
 ## assembler
 Takes an assembly-language program and produce the corresponding machine language
